@@ -1,0 +1,31 @@
+.our-courses {}
+
+.container {}
+
+.our-courses-top {}
+
+.our-courses-title {
+        color: #BEA69E;
+        font-family: DM Sans;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.14;     
+        letter-spacing: -0.04em;
+}
+
+.our-courses-title-unique {}
+
+.our-courses-description {}
+
+.our-courses-bottom {}
+
+.our-courses-list {}
+
+.por-courses-list-item {}
+
+.our-courses-item-link {}
+
+.our-courses-item-title {}
+
+.our-courses-item-desc {}
